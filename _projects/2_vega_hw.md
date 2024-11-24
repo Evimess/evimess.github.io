@@ -1,7 +1,7 @@
 ---
 name: Vega Lite HW6
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/global_heatmap.png
 description: two graphs
 custom_js:
   - vega.min
@@ -39,6 +39,6 @@ trail.save(myJekyllDir2+"ufos_trail.json")
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/Evimess/evimess.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
 
